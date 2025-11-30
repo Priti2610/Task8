@@ -44,5 +44,4 @@ Font Awesome Icons
 📬 Bootstrap-based contact form
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2245af0f-ae08-41dd-843e-e80a5fa73710" />
 
